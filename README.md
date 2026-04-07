@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5FFF&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Antony!;Desenvolvedor+Web/Back-End;Estudante+de+Sistemas+SESI/SENAI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7A5FFF&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Antony!;Desenvolvedor+Web+/+Back-End;Estudante+de+Sistemas+SESI/SENAI"/>
 </p>
 
 ---
@@ -92,5 +92,5 @@ Sou um estudante de **Desenvolvimento de Sistemas no SESI/SENAI** (atualmente no
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5FFF&height=100&section=footer"/>
 </p>
