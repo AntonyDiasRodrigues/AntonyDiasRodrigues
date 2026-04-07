@@ -10,12 +10,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um estudante de **Desenvolvimento de Sistemas no SESI/SENAI** (atualmente no 3º/4º semestre), focado em construir soluções robustas no lado do servidor. Adoro o desafio de criar APIs eficientes e estou em constante evolução para me tornar um desenvolvedor Full-Stack completo.
+Sou um estudante de **Desenvolvimento de Sistemas no SESI/SENAI** (atualmente no 3º/4º semestre), focado em construir soluções robustas no lado do servidor. Adoro o desafio de criar APIs eficientes e estou em constante evolução para me tornar um desenvolvedor Web completo.
 
 * 💼 **Foco Atual:** Arquitetura Back-End e ecossistema Node.js.
 * 🚀 **Interesses:** APIs RESTful, Performance e Mobile.
 * 🎓 **Educação:** Técnico em Desenvolvimento de Sistemas.
-* 🎯 **Objetivo:** Evoluir para Full-Stack profissional.
+* 🎯 **Objetivo:** Evoluir para um Desenvolvedor Web profissional.
 
 ---
 
