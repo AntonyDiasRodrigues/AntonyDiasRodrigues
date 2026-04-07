@@ -5,7 +5,7 @@
 
 <!-- ✍️ Títulos animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Antony!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Olá,+meu+nome+é+Antony!"/>
 </p>
 
 <p align="center">
