@@ -63,7 +63,7 @@ Sou um estudante de **Desenvolvimento de Sistemas no SESI/SENAI** (atualmente no
 
 ### ⭐ Projetos em Destaque
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Anderson4322/Htmls">
     <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=Htmls&theme=tokyonight"/>
   </a>
@@ -73,7 +73,7 @@ Sou um estudante de **Desenvolvimento de Sistemas no SESI/SENAI** (atualmente no
   <a href="https://github.com/Anderson4322/ReactNative">
     <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Anderson4322&repo=ReactNative&theme=tokyonight"/>
   </a>
-</div>
+</div> -->
 
 ---
 
